@@ -1,4 +1,4 @@
-# Hi, I'm Allan Gallo 👋😎
+# Hi, I'm Allan Gallo 👋😎 🇬🇹
 
 ```js
 const aogallo = {
@@ -7,3 +7,7 @@ const aogallo = {
   tools: [React, Node, Jest, Docker],
 }
 ```
+
+## 📝 Blogs
+
+## 🌎 You can find me
